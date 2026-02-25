@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p align="left"><br>  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=2200&pause=1200&color=00BFFF&background=00000000&width=650&lines=$+whoami;L-sub-hash" /><br></p><br><br>Penetration testing student with an offensive mindset.  <br>I analyze systems by probing, breaking, and tracing failure paths across networks and applications.<br><br>My work revolves around reconnaissance, OSINT, vulnerability discovery — tested in controlled lab environments.  <br>I focus on how systems fail under real conditions, not how tools claim they should work.<br><br>Curiosity-driven. Failure-focused. Attacker-minded.
+<p align="left"><br>  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=2200&pause=1200&color=00BFFF&background=00000000&width=650&lines=$+whoami;Lingam-Subhash" /><br></p><br><br>Penetration testing student with an offensive mindset.  <br>I analyze systems by probing, breaking, and tracing failure paths across networks and applications.<br><br>My work revolves around reconnaissance, OSINT, vulnerability discovery — tested in controlled lab environments.  <br>I focus on how systems fail under real conditions, not how tools claim they should work.<br><br>Curiosity-driven. Failure-focused. Attacker-minded.
 
 
 ## 🌐 Socials:
